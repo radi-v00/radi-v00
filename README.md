@@ -5,7 +5,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages**: cpp, Python, JavaScript/TS, Java,
-- **Web Development**: HTML, CSS, React, angular, Node.js
+- **Web Development**: HTML, CSS, React, angular, Node.js, django
 - **Databases**: MySQL, PostgreSQL, sqlserver
 
 
